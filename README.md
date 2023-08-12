@@ -32,4 +32,4 @@ $ pip install -r requirements.txt
 
 ## Contact
 
-This has been moved to it's own repo in # AI Content Detection
+This has been moved to it's own repo @ AI Content Detection
